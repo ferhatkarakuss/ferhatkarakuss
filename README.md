@@ -8,13 +8,13 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  Iam a Jr. Frontend Developer from Turkey.</h3>
 
 ###
 
 <br clear="both">
 
-<p align="center">I'm a Jr. Frontend Developer from  Turkey.<br><br>🔭 I  like to learn new tecnologies and new skills and currently focusing on frontend development.<br>🛠 I am using HTML5,CSS3,Bootsrap,Tailwind and React.<br>💬 You can ask me about anything that you want to learn.
+<p align="center">🔭 I  like to learn new tecnologies and new skills and currently focusing on frontend development.<br>🛠 I am using HTML5,CSS3,Bootsrap,Tailwind and React.<br>💬 You can ask me about anything that you want to learn.</p>
 
 ###
 
