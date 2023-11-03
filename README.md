@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="center">I'm a Jr. Frontend Developer from  Turkey.<br><br>🔭 I  like to learn new tecnologies and new skills and currently focusing on frontend development.<br>🛠 I am using HTML5,CSS3,Bootsrap,Tailwind and React.<br>💬 You can ask me about anything that you want to learn.<br> 📫 You can send me e-mail: ferhatkarakus.dev@gmail.com</p>
+<p align="center">I'm a Jr. Frontend Developer from  Turkey.<br><br>🔭 I  like to learn new tecnologies and new skills and currently focusing on frontend development.<br>🛠 I am using HTML5,CSS3,Bootsrap,Tailwind and React.<br>💬 You can ask me about anything that you want to learn.
 
 ###
 
