@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  Iam a Jr. Frontend Developer from Turkey.</h3>
+<h3 align="center">👩‍💻  I am a Jr. Frontend Developer from Turkey.</h3>
 
 ###
 
